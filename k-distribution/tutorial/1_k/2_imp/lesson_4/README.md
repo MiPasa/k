@@ -1,5 +1,7 @@
 <!-- Copyright (c) 2010-2019 K Team. All Rights Reserved. -->
 
+[![Open in MiPasa](https://app.mipasa.org/github-badge.svg)](https://app.mipasa.org/code/github/MiPasa/k/master/k-distribution/tutorial/1_k/2_imp/lesson_4)
+
 # Configuration Abstraction, Part 1; Types of Rules
 
 Here we will complete the K definition of IMP and, while doing so, we will

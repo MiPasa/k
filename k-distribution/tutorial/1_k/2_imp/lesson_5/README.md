@@ -1,5 +1,7 @@
 <!-- Copyright (c) 2010-2019 K Team. All Rights Reserved. -->
 
+[![Open in MiPasa](https://app.mipasa.org/github-badge.svg)](https://app.mipasa.org/code/github/MiPasa/k/master/k-distribution/tutorial/1_k/2_imp/lesson_5)
+
 # Completing and Documenting IMP
 
 We here learn no new concepts, but it is a good moment to take a break

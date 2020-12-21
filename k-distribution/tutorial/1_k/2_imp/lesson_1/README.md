@@ -1,5 +1,7 @@
 <!-- Copyright (c) 2010-2019 K Team. All Rights Reserved. -->
 
+[![Open in MiPasa](https://app.mipasa.org/github-badge.svg)](https://app.mipasa.org/code/github/MiPasa/k/master/k-distribution/tutorial/1_k/2_imp/lesson_1)
+
 # Defining a More Complex Syntax
 
 Here we learn how to define a more complex language syntax than LAMBDA's,

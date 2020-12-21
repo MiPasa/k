@@ -1,5 +1,7 @@
 <!-- Copyright (c) 2010-2019 K Team. All Rights Reserved. -->
 
+[![Open in MiPasa](https://app.mipasa.org/github-badge.svg)](https://app.mipasa.org/code/github/MiPasa/k/master/k-distribution/tutorial/1_k/2_imp/lesson_3)
+
 # Computations, Results, Strictness; Rules Involving Cells
 
 In this lesson we will learn about the syntactic category `K` of computations,
