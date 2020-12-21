@@ -1,2 +1,7 @@
 MAKEFILE_PATH := $(dir $(abspath $(lastword $(MAKEFILE_LIST))))
-include $(MAKEFILE_PATH)/../lesson_1/Makefile
+DEF=imp
+EXT=imp
+
+-include $(MAKEFILE_PATH)/../../../find-k.mak
+include ${K_HOME}/include/kframework/ktest.mak
+
